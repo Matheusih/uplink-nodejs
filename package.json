@@ -26,13 +26,13 @@
   },
   "homepage": "https://github.com/storj-thirdparty/uplink-nodejs#readme",
   "devDependencies": {
-    "eslint": "^7.6.0"
+    "eslint": "^7.6.0",
+    "mocha": "^8.2.1"
   },
   "dependencies": {
     "bindings": "^1.5.0",
     "chai": "^4.2.0",
     "docsify": "^4.11.4",
-    "mocha": "^8.0.1",
     "node-gyp": "^7.0.0"
   }
 }
